@@ -1,0 +1,50 @@
+*{
+    background-color:white;
+    color:black;
+}
+
+#NavBar{
+    background-color:black;
+    color:white;
+    height:60px;
+    border:5px solid white
+}
+
+a{
+    background-color:black;
+    color:white;
+    margin-right:200px;
+}
+
+#Logo{
+    font-size:25px;
+    color:rgb(212, 169, 90);
+}
+
+button{
+    color:black;
+    background-color:rgb(212, 169, 90);
+}
+
+input{
+    background-color:white;
+    color:black;
+}
+
+.h{
+    height:100px;
+    width:100px;
+    border:2px solid greenyellow;
+}
+
+#c1{
+    background-color:rgba(255,0,0,0.5);
+}
+
+#c2{
+    background-color:rgba(0,255,0,0.5);
+}
+
+#c3{
+    background-color:rgba(0,0,255,0.5);
+}
